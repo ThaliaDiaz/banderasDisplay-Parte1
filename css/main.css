@@ -1,0 +1,25 @@
+/*Utilizo el selector de etiqueta para definir el alto, el margen y borde de todos los elementos dentro de la etiqueta*/
+div{
+    height:100px;
+    margin: 1px;
+    border:3px solid #ffffff;
+}
+
+/*Utilizo el selector de clase para definir que todos los que tengan la clase yellow se les asigne un color de fondo yellow*/
+.yellow{
+   background-color: #ffc107
+}
+/*Utilizo el selector de clase para definir que todos los que tengan la clase black se les asigne un color de fondo black*/
+.black{
+    background-color: rgba(22, 20, 20, 0.918);
+}
+/*utilizo el selector de etiqueta p para asignar el mismo tipo de fuente a todos los elementos que tengan la etiqueta p*/
+p{
+   font-family: 'Helvetica Neue';
+   
+}
+/*Utilizo el selector ID  #white para asignar un color a todos los que tengan un id con este nombre*/
+#white{
+    color: white;
+}
+
