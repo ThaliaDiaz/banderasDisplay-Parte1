@@ -1,6 +1,8 @@
 # BANDERAS DISPLAY
 
-Este proyecto contiene la página web de banderas display;
+Este proyecto contiene la página web de banderas display
+
+## Parte 1
 
 ### Objetivo Funcional
 
